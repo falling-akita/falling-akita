@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm 穐田慎太郎と申します 👋
 
-<!--
-**falling-akita/falling-akita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 自己紹介
+- 🎯 **現在挑戦中:** フロントエンジニアとして転職活動中です！
+- 💻 **学習中のスキル:** HTML, CSS, JavaScript, React, Pythonなど
+- 💼 **前職/バックグラウンド:** 接客業で培ったコミュニケーション力を活かし、ユーザーに寄り添った開発を目指しています。
 
-Here are some ideas to get you started:
+## 🛠 スキルセット
+- **Languages:** JavaScript, Ruby, SQL
+- **Frameworks:** Ruby on Rails, React
+- **Tools:** VS Code, Git, Slack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 学習の軌跡 / ポートフォリオ
+- [アプリ名1](URL) : どんな課題を解決するために作ったか一言。
+- [学習ブログ](URL) : 学んだことをアウトプットしています。
+
+## 📫 連絡先
+- [Twitter/X](URL)
+- [メールアドレス]
